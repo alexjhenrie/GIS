@@ -57,11 +57,11 @@ Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key inst
 1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
 
     ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
+    title: GIS Portfolio
+    description: Featured works using GIS software.
     theme: just-the-docs
 
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
+    url: https://alexjhenrie.github.io/GIS
 
     aux_links: # remove if you don't want this link to appear on your pages
       Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
