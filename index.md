@@ -1,11 +1,11 @@
 ---
-title: Home
+title: Portfolio
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Through both my education and work experience, I have developed a highly specialized knowledge and broad skill set. While I love viewing and exploring the Earth from above, I am fascinated by the tiny interactions which shape our physical and personal environment. My work experience, course work and personal intrigue has allowed me to study these interactions in-depth.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+My experiences have provided me with the necessary skills and attention-to-detail needed to effectively communicate important topics, as well as provide reliable, research-quality data to be used across institutions.
 
 More specifically, the created site:
 
