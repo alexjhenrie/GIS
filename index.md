@@ -9,7 +9,10 @@ Through both my education and work experience, I have developed a highly special
 
 My experiences have provided me with the necessary skills and attention-to-detail needed to effectively communicate important topics, as well as provide reliable, research-quality data to be used across institutions.
 
-----
+---
+title: Work
+layout: home 
+---
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
