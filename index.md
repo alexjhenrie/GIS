@@ -1,9 +1,10 @@
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 ---
 title: Portfolio
 layout: home
 ---
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
 
 Hi! I'm Alex. I am a graduate of the Graduate GISci Certificate program at the University of Colorado Denver, and I received my Bachelor of Science (BSc.) in Biology from Northern Arizona University. I have various experience in utilizing geospatial software and technology within the domain of the natural sciences, as well as utilizing GIS to communicate data.
 
